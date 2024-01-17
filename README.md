@@ -60,7 +60,7 @@ Meals App displays meals from different categories and let's the users search th
    
    ## 🐦 Follow Me:
 
-> [GitHub](github.com/Ishika-Yadav)
+> [GitHub](https://github.com/Ishika-Yadav)
 
 
 
